@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(236, 236, 229);
+}
+
+
+.nav-bar {
+   text-decoration: none;
+    margin: 10px 40px;
+    background-color: yellow;
+    
+}
+
+.nav-bar h1{
+    display: inline;
+}
+
+#nav-logo{
+    display: inline;
+    margin-right: 350px; 
+     background-color: lightblue; 
+     
+}
+.text{
+    color: blue;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 25px;
+  }
+.text2 {  color: blue;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 50px 20px;
+    font: optional;
+
+}
+.titre {
+   font-style: oblique; 
+}
+    
+.video {
+    border: 2px red dotted;
+}
